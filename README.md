@@ -24,6 +24,12 @@ Interactive wizard.
 
     aws dynamodb wizard new-table
 
+### CLI Wait
+
+To wait until an instance is running.
+
+    aws ec2 wait instance-running --instance-ids i-1234567890abcdef0
+
 ## References
 
 https://aws.amazon.com/pt/devops/
