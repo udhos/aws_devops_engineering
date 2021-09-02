@@ -54,4 +54,8 @@ https://github.com/awslabs/git-secrets
 
 https://d1.awsstatic.com/whitepapers/microservices-on-aws.pdf
 
+https://gallery.ecr.aws/
+
+https://aws.amazon.com/pt/bottlerocket/
+
 
