@@ -30,6 +30,12 @@ To wait until an instance is running.
 
     aws ec2 wait instance-running --instance-ids i-1234567890abcdef0
 
+## CodeBuild
+
+### CodeBuild local
+
+https://docs.aws.amazon.com/codebuild/latest/userguide/use-codebuild-agent.html
+
 ## References
 
 https://aws.amazon.com/pt/devops/
