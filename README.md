@@ -52,4 +52,6 @@ https://aws.amazon.com/pt/blogs/mt/introducing-aws-cloudformation-guard-2-0/
 
 https://github.com/awslabs/git-secrets
 
+https://d1.awsstatic.com/whitepapers/microservices-on-aws.pdf
+
 
