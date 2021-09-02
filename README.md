@@ -44,3 +44,6 @@ https://github.com/aws-cloudformation/awesome-cloudformation
 
 https://aws.amazon.com/pt/blogs/mt/introducing-aws-cloudformation-guard-2-0/
 
+https://github.com/awslabs/git-secrets
+
+
