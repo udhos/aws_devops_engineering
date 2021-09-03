@@ -58,4 +58,5 @@ https://gallery.ecr.aws/
 
 https://aws.amazon.com/pt/bottlerocket/
 
+[Fargate Considerations](https://docs.aws.amazon.com/eks/latest/userguide/fargate.html)
 
